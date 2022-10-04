@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WikiPediaCount</string>
+    <string name="hint_search_string">Hint</string>
+    <string name="button_search">Search</string>
+</resources>
